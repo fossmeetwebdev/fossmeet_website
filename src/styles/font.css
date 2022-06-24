@@ -1,0 +1,9 @@
+
+ @font-face { font-style : normal; src: url("assets/fonts/jetbrainsmonoregular400.ttf"); font-family : "JetBrains Mono"; font-weight : 400;  }
+ @font-face { font-style : normal; src: url("assets/fonts/opensansregular400.ttf"); font-family : "Open Sans"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/jetbrainsmonobold700.ttf"); font-family : "JetBrains Mono"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/jetbrainsmonoextrabold800.ttf"); font-family : "JetBrains Mono"; font-weight : 800;  }
+ @font-face { font-style : bold; src: url("assets/fonts/opensansopensansromansemibold600.ttf"); font-family : "Open Sans"; font-weight : 600;  }
+ @font-face { font-style : bold; src: url("assets/fonts/jetbrainsmonomedium500.ttf"); font-family : "JetBrains Mono"; font-weight : 500;  }
+ @font-face { font-style : italic; src: url("assets/fonts/jetbrainsmonoitalic400.ttf"); font-family : "JetBrains Mono"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/jetbrainsmonolight300.ttf"); font-family : "JetBrains Mono"; font-weight : 300;  }
